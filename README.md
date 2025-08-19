@@ -21,7 +21,7 @@ RedisMap is an **advanced Redis enumeration & exploitation tool** for penetratio
 ## 🛠️ Installation
 
 ```bash
-git clone https://github.com/yourusername/RedisMap.git
+git clone https://github.com/giriaryan694-a11y/redismap.git
 cd RedisMap
 pip install -r requirements.txt
 

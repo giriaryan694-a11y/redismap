@@ -1,0 +1,5 @@
+# External Python dependencies
+pyfiglet
+
+# Note: All other imports (argparse, socket, time, threading, os, random, datetime)
+# are part of Python's standard library and do not need to be included here.

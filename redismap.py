@@ -25,7 +25,7 @@ def banner():
     ascii_art = pyfiglet.figlet_format("RedisMap", font=font_choice)
     styled = f"{color_choice}\033[1m{ascii_art}\033[0m"
     print(styled)
-    print(f"{color_choice}\033[1m           (KaliGPT x Aryan)\033[0m")
+    print(f"{color_choice}\033[1m           (Made by Aryan Giri)\033[0m")
     print(f"[~] Font used: {font_choice} | Color applied!\n")
 
 # ====== REDIS CORE ======
